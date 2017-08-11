@@ -1,7 +1,48 @@
+// index
 body{
 	background-color: #c14748;
 }
 h1{
 	color:white;
-	
+	font-family:$titulo;
+	padding-top:200px;
+	font-size: 9rem;
+}
+.btn {
+background-color: #ffffff;
+color: #c14748;
+}
+.btn-large{
+ width:70%;
+}
+.a{
+color:#ffffff;
+}
+
+/* create */
+#fondocreate{
+background-color: #e2e2e2;
+
+}
+nav{
+background-color:#161515;
+}
+nav .brand-logo{
+
+}
+.create {
+background-color: #161515;
+}
+input{
+	background-color:white!important;
+}
+/* movie */
+.container-fluid{
+	.uno{
+		background-color:white;
+		height: 1000px;
+	}
+}
+.btn-large2{
+ width:70%;
 }
